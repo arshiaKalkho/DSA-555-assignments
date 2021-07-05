@@ -1,0 +1,8 @@
+﻿  a3tester.cpp
+C:\Users\arshi\OneDrive\Desktop\dsa\a3-a3-arshia-a-kalkhorani-main\a3tester.cpp(199,9): warning C4101:  'treeSize': unreferenced local variable
+C:\Users\arshi\OneDrive\Desktop\dsa\a3-a3-arshia-a-kalkhorani-main\a3tester.cpp(294,9): warning C4101:  'treeSize': unreferenced local variable
+C:\Users\arshi\OneDrive\Desktop\dsa\a3-a3-arshia-a-kalkhorani-main\a3tester.cpp(394,9): warning C4101:  'treeSize': unreferenced local variable
+C:\Users\arshi\OneDrive\Desktop\dsa\a3-a3-arshia-a-kalkhorani-main\a3tester.cpp(489,9): warning C4101:  'treeSize': unreferenced local variable
+C:\Users\arshi\OneDrive\Desktop\dsa\a3-a3-arshia-a-kalkhorani-main\a3tester.cpp(588,9): warning C4101:  'treeSize': unreferenced local variable
+C:\Users\arshi\OneDrive\Desktop\dsa\a3-a3-arshia-a-kalkhorani-main\a3tester.cpp(651,9): warning C4101:  'treeSize': unreferenced local variable
+  A3-dsa.vcxproj -> C:\Users\arshi\OneDrive\Desktop\dsa\a3-a3-arshia-a-kalkhorani-main\A3Proj\A3-dsa\Debug\A3-dsa.exe
