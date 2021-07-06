@@ -2,10 +2,10 @@
 /*                                                           */
 /*  Starter file for a2                                      */
 /*                                                           */
-/*  Author1 Name: David Lee                                  */
-/*      - ChainingTable author                               */
-/*  Author2 Name: Arshia A Kalkhorani                        */
-/*      - simple table analysis and code review              */
+/*  Arshia A Kalkhorani                                      */
+/*                                     */
+/*                                                           */
+/*                                                           */
 /*                                                           */
 /*************************************************************/
 
